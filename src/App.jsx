@@ -170,7 +170,7 @@ const Footer = () => (
 
         <div>
           <h3 className="font-bold text-lg mb-6 text-[#00A8E8]">Stay in the Loop</h3>
-          <p className="text-gray-400 text-sm mb-4">Subscribe for exclusive drops and 10% off.</p>
+          <p className="text-gray-400 text-sm mb-4">Subscribe for exclusive drops and 20% off.</p>
           <div className="flex gap-2">
             <input type="email" placeholder="Enter email" className="bg-white/5 border border-white/10 rounded-lg px-4 py-3 text-sm w-full focus:outline-none focus:border-[#00A8E8]" />
             <button className="bg-[#00A8E8] text-[#0A192F] px-4 rounded-lg font-bold hover:bg-white transition-colors">
